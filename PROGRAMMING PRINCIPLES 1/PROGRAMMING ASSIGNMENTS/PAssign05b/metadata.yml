@@ -1,0 +1,12 @@
+---
+:id: 276790238
+:submitters:
+- :name: Greg Lamar
+  :email: gl04294@georgiasouthern.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-10-11 02:44:38.763136000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-10-10 19:44:38.763136000 Z
+:status: processed
+:score: 10.0
