@@ -1,0 +1,14 @@
+---
+:id: 320740633
+:submitters:
+- :name: Nick Kipkemboi
+  :email: nk03366@georgiasouthern.edu
+- :name: Greg Lamar
+  :email: gl04294@georgiasouthern.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-03-28 20:08:53.418118000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-03-28 13:08:53.418118000 Z
+:status: processed
+:score: 18.0

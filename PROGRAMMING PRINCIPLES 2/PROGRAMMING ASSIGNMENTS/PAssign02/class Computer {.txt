@@ -1,0 +1,36 @@
+class Computer {
+    - brand : String
+    - model : String
+    - videoCard : VideoCard
+    + Computer()
+    + Computer(videoCard: VideoCard)
+    + Computer(brand: String, model: String, videoCard: VideoCard)
+    + getInfo() : String
+    + getBrand() : String
+    + setBrand(brand: String)
+    + getModel() : String
+    + setModel(model: String)
+    + getVideoCard() : VideoCard
+    + setVideoCard(videoCard: VideoCard)
+}
+
+class VideoCard {
+    - type : String
+    - connectionType : String
+    - powerRequirement : int
+    - externalPower : String
+    - memorySize : int
+    + VideoCard()
+    + VideoCard(type: String, connectionType: String, powerRequirement: int, externalPower: String, memorySize: int)
+    + getInfo() : String
+    + getType() : String
+    + setType(type: String)
+    + getConnectionType() : String
+    + setConnectionType(connectionType: String)
+    + getPowerRequirement() : int
+    + setPowerRequirement(powerRequirement: int)
+    + getExternalPower() : String
+    + setExternalPower(externalPower: String)
+    + getMemorySize() : int
+    + setMemorySize(memorySize: int)
+}
